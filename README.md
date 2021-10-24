@@ -1,2 +1,2 @@
 # tw-portfolio
-Technical Writer Portfolio 
+Technical Writer Portfolio.
